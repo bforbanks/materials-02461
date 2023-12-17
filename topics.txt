@@ -1,0 +1,73 @@
+1. Introduction
+I    Reasoning: Induction, deduction, abduction
+
+2. Statistics
+I    Descriptive and inferential statistics: Population, sample, statistic, parameters, estimator.
+II    Population mean and standard deviation.
+II    Sample estimate of mean and standard deviation.
+II    Confidence interval for mean and proportion.
+II    Sample size estimate for mean and proportion.   
+
+3. Algorithms
+I    Algorithmic complexity.
+I    Understand an algorithm from description or Python code.
+II    Time complexity function.
+II    Best, average and worst case complexity.
+II    Big-O notation.
+
+4. Symbolic AI
+I    Symbolic AI.
+I    Forward and backward chaining.
+I    Monte carlo search.
+II    Boolean logic.
+II    Rule-based systems and expert systems.
+
+5. Natural language processing
+I    Data representation in the computer.
+I    Bag of words representation.
+II    Term frequency-inverse document frequency (TF-IDF).
+
+ 
+6. Machine learning
+I    Types of machine learning problems.
+I    Generalization: Training and test error.
+II    Linear regression. Model, parameters, and cost function.
+
+7. Image processing
+II    Feature normalization and standardization.
+II    K-means clustering. Model, cost function, parameters, and algorithm.
+
+8. Optimization
+II    Gradient descent algorithm.
+I    Stochastic gradient descent.
+II    Gradient of cost function.
+II    Neural networks: Model (layers, activation functions), parameters, cost function.
+
+9. Automatic differentiation
+I    Automatic differentiation: Forward and reverse accumulation.
+II    Computation graphs.
+II    Automatic differentiation in Pytorch.
+II    Implementation of neural networks in Pytorch.
+
+10. Audio processing
+I    Frequency spectrum and spectrogram.
+II    Feature transformations and basis change.
+
+ 
+11. Reinforcement learning
+I    Reinforcement learning: Markov decision process (state, action, reward).
+I    Epsilon-greedy action selection and optimistic initialization.
+II    RL algorithms: Value iteration and Q-learning.
+II    Optimal action and optimal policy.
+II    Discount factor.
+II    Value (of a state) and quality (of a state-action pair).
+
+12. Causality
+I    Statistical dependency.
+II    Covariance and correlation coefficient.
+I    Causality and confounders.
+I    Randomized trials.
+
+13. Algorithmic fairness
+II    Fairness criteria: Demographic parity, equalized odds, equal opportunity.
+I    Ethical challenges and dilemmas in AI
